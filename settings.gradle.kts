@@ -26,3 +26,4 @@ rootProject.name = "FlashSpeak"
 include(":app")
 include(":domain")
 include(":data")
+include(":design")
